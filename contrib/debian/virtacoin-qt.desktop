@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=VirtaCoin
+Comment=VirtaCoin P2P Cryptocurrency
+Comment[fr]=VirtaCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=VirtaCoin, eşten eşe kriptografik sanal para birimi
+Exec=virtacoin-qt %u
+Terminal=false
+Type=Application
+Icon=virtacoin128
+MimeType=x-scheme-handler/virtacoin;
+Categories=Office;Finance;

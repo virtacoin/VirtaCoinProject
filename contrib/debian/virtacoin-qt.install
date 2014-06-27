@@ -1,0 +1,8 @@
+virtacoin-qt usr/bin
+share/pixmaps/virtacoin16.xpm usr/share/pixmaps
+share/pixmaps/virtacoin32.xpm usr/share/pixmaps
+share/pixmaps/virtacoin64.xpm usr/share/pixmaps
+share/pixmaps/virtacoin128.xpm usr/share/pixmaps
+share/pixmaps/virtacoin256.xpm usr/share/pixmaps
+debian/virtacoin-qt.desktop usr/share/applications
+debian/virtacoin-qt.protocol usr/share/kde4/services/

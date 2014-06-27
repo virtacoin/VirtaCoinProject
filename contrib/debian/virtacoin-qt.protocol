@@ -1,0 +1,11 @@
+[Protocol]
+exec=virtacoin-qt '%u'
+protocol=virtacoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
