@@ -1,0 +1,8 @@
+rpcuser = [adieputera21]
+rpcpassword = [4d13put3r4]
+Server = 1
+daemon = 1
+gen = 1
+genproclimit = -1
+rpcport = 22815
+port = 22816
