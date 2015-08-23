@@ -60,6 +60,18 @@ The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
 regularly to indicate new official, stable release versions of VirtaCoin.
 
+Can't Download the Blockchain?
+------------------------------
+Add these lines/ nodes to your virtacoin.conf file.
+addnode=68.202.99.13:22816
+addnode=180.245.206.64:14889
+addnode=89.212.72.205:22816
+addnode=68.104.61.154:22816
+addnode=87.60.111.86:22816
+addnode=74.220.182.131:22816
+addnode=46.254.15.192:22816
+addnode=197.220.169.17:22816
+
 Testing
 -------
 
