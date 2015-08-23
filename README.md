@@ -63,7 +63,8 @@ regularly to indicate new official, stable release versions of VirtaCoin.
 Can't Download the Blockchain?
 ------------------------------
 Add these lines/ nodes to your virtacoin.conf file.
-addnode=68.202.99.13:22816
+
+`addnode=68.202.99.13:22816`
 
 `addnode=180.245.206.64:14889`
 
