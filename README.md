@@ -31,6 +31,7 @@ Technical Specifications
 Links
 ------------------------
 Website: http://www.virtacoin.com
+Explorer:http://www.virtacoinexplorer.org/
 
 License
 -------
