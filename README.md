@@ -29,10 +29,11 @@ Technical Specifications
  - Difficulty retarget every 1 block
  
 Links
-------------------------
+------
 Website: http://www.virtacoin.com
 
-Explorer:http://www.virtacoinexplorer.org/
+Explorer: http://www.virtacoinexplorer.org
+
 
 License
 -------
