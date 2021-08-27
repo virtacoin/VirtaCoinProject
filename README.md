@@ -1,8 +1,8 @@
-=======
 VirtaCoin Core integration/staging tree
 =====================================
 
 http://www.virtacoin.com
+https://virtacoin.online
 
 Copyright (c) 2009-2014 Bitcoin Core Developers
 Copyright (c) 2014 VirtaCoin Core Developers
@@ -30,7 +30,7 @@ Technical Specifications
  
 Links
 ------------------------
-Website: http://www.virtacoin.com
+BlockChain - http://virtachain.info
 
 License
 -------
