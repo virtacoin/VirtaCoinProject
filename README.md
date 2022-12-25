@@ -1,8 +1,7 @@
-=======
 VirtaCoin Core integration/staging tree
 =====================================
 
-http://www.virtacoin.com
+http://www.virtacoincore.com
 
 Copyright (c) 2009-2014 Bitcoin Core Developers
 Copyright (c) 2014 VirtaCoin Core Developers
@@ -17,7 +16,7 @@ out collectively by the network. VirtaCoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the VirtaCoin Core software, see http://www.virtacoin.com.
+the VirtaCoin Core software, see http://www.virtacoincore.com.
 
 Technical Specifications
 ---------------------
@@ -30,7 +29,7 @@ Technical Specifications
  
 Links
 ------------------------
-Website: http://www.virtacoin.com
+Website: http://www.virtacoincore.com
 
 License
 -------
